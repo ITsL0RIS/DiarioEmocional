@@ -17,7 +17,7 @@ O aplicativo Diário Emocional permite que os usuários registrem e analisem sua
 
 ## Demonstração Visual (Protótipo Inicial)
 
-[![Protótipo Inicial do App](./imagens/App - Print_Simulação.jpeg)](https://drive.google.com/file/d/14IXFQSgJLgLtGNd0waeS8DrQHmyCPIy6/view?usp=sharing)
+[![Protótipo Inicial do App](./imagens/thumbnail.jpeg)](https://drive.google.com/file/d/14IXFQSgJLgLtGNd0waeS8DrQHmyCPIy6/view?usp=sharing)
 
 > **Observação:** O vídeo acima demonstra o protótipo inicial do aplicativo, mostrando as funcionalidades básicas implementadas até o momento. 
 
