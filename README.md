@@ -1,4 +1,4 @@
-# App Android - [Diário Emocional]
+# App Android - [ Diário Emocional 💜]
 
 Este é o meu primeiro aplicativo Android, desenvolvido utilizando o Android Studio como parte do meu aprendizado em desenvolvimento mobile. Atualmente, o projeto encontra-se na **fase inicial de desenvolvimento**.
 
@@ -17,7 +17,7 @@ O aplicativo Diário Emocional permite que os usuários registrem e analisem sua
 
 ## Demonstração Visual (Protótipo Inicial)
 
-[![Vídeo de Demonstração do App](./imagens/App - Print_Simulação.jpeg)]([link_para_o_video_hospedado](https://drive.google.com/drive/folders/1L6nQn_hx6tlr_poUEm1GUTLW2u7KX4aX?usp=sharing))
+[![Protótipo Inicial do App](./imagens/App - Print_Simulação.jpeg)](https://drive.google.com/file/d/14IXFQSgJLgLtGNd0waeS8DrQHmyCPIy6/view?usp=sharing)
 
 > **Observação:** O vídeo acima demonstra o protótipo inicial do aplicativo, mostrando as funcionalidades básicas implementadas até o momento. 
 
